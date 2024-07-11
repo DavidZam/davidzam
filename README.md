@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm David Zamora</h1>
-<h3 align="center">Frontend web developer 💻</h3>
+<h3 align="center">Frontend developer 💻</h3>
 
 <h4 align="center">I'm a frontend web developer for more than 5 years.</h4>
 
