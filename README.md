@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm David Zamora</h1>
-<h3 align="center">Frontend developer 💻</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-<h4 align="center">I'm a frontend web developer for more than 5 years.</h4>
+<p align="center"> Welcome to my page! 👋 I'm David Zamora!</p>
 
 <p align="justify">I'm a programmer and frontend developer, I started my professional career in 2018, programming with Java, but once I discovered the web I became passionate about it and now I work professionally 100% with Angular. I like to be curious about new technologies and features included in the new versions of the ones I already know, in order to improve my skills and keep myself always up to date.</p>
 
-## Languages and tools 🧑‍💻
+## Things I code with 🧑‍💻
 
 <p>
   <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
