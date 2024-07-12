@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">I'm a frontend web developer for more than 5 years.</h4>
 
-<p align="justify">My trip started programming with Java, but once I discovered the web I was passionate about it and now I work professionaly 100% with <strong>Angular</strong>. On my side projects I try to learn other tecnologies like React, Astro and Next.js</p>
+<p align="justify">I'm a programmer and frontend developer, I started my professional career in 2018, programming with Java, but once I discovered the web I became passionate about it and now I work professionally 100% with Angular. I like to be curious about new technologies and features included in the new versions of the ones I already know, in order to improve my skills and keep myself always up to date.</p>
 
 ## Languages and tools 🧑‍💻
 
