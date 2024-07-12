@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-<p align="center"> Welcome to my page! 👋 I'm David Zamora!</p>
+<h3 align="center"> Welcome to my page! 👋 I'm David Zamora!</h3>
 
 <p align="justify">I'm a programmer and frontend developer, I started my professional career in 2018, programming with Java, but once I discovered the web I became passionate about it and now I work professionally 100% with Angular. I like to be curious about new technologies and features included in the new versions of the ones I already know, in order to improve my skills and keep myself always up to date.</p>
 
