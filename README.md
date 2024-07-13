@@ -49,11 +49,9 @@ Here are some ideas to get you started:
 ## GitHub Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidzam&theme=nord&layout=compact&exclude_repo=EDBReports,EmergApp)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidzam&theme=nord&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidzam&theme=nord&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Contact 📫
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidzamorarey@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidzamorarey)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidzam&theme=dark" alt="davidzam" /></p>
