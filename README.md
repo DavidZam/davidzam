@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="justify">I'm a programmer and frontend developer, I started my professional career in 2018, programming with Java, but once I discovered the web I became passionate about it and now I work professionally 100% with Angular. I like to be curious about new technologies and features included in the new versions of the ones I already know, in order to improve my skills and keep myself always up to date.</p>
 
-- 👨‍💻 Check my porfolio at [davidzam.dev](www.davidzam.dev)
+- 👨‍💻 Check my porfolio at [davidzam.dev](https://davidzam.dev/)
 - 🛸 100% remote
 
 ## Things I code with 🧑‍💻
