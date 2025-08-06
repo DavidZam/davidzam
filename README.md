@@ -33,14 +33,14 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="RxJs" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactiveX&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-CB3837?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 </p>
 
 <!--## Main repositories
